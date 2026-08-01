@@ -1,0 +1,6 @@
+{
+  "name": "Guardian AI",
+  "description": "AI-Powered Emergency Response Platform with Automatic Ambulance Dispatch and Prava AutoPay Sandbox",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
